@@ -2,10 +2,10 @@
 
 ### Backend Application | Informatika — Universitas Siliwangi
 
-**Mata Kuliah:** Keamanan Informasi (KP70065004)  
-**Jenis Tugas:** Praktikum Individu  
-**Topik:** Implementasi Zero Trust Security pada Sistem Nilai Mahasiswa
-
+Nama: Wafa Faujiah
+NPM: 247006111026
+Kelas: A
+Tugas Praktikum Individu
 ---
 
 ## 📌 1. DESKRIPSI PROYEK
